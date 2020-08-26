@@ -28,14 +28,6 @@ header {
 
 }
 
-
-
-#logo {
-   text-align: center;
-   margin: 0;
-
- }
-
  h1 {
  font-family: "Times New Roman", Times, serif;
  margin: 12px 0;
@@ -90,21 +82,15 @@ PAGE:
     border-radius: 30px;
 }
 
-
-
-
 /*************************************
 COLORS
 **************************************/
-
 
  /* red header*/
   header {
    background: #6ab47b;
    border-color: #FFA500;
  }
-
- /* logo text*/
 
  h1, h2  {
     color: red;
