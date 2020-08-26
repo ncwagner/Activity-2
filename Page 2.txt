@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <h1> Sample Activity 2 Page #2 for Noah Wagner</h1>
+    <title>Sample Activity 2 Page #2 for Noah Wagner</title>
+</head>
+  
+<body>  
+    <img src="source.gif" alt="Herbie Husker">
+  
+    <p>This is my second page setup for my Sample Activity 2. 
+  </p>
+
+    <p>Working on stylesheet.
+   </p>
+</body>
+</html>
